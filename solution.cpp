@@ -6,6 +6,6 @@ int main() {
     long long a, b;
     if (!(cin >> a >> b)) return 0;
     long long s = a + b;
-    cout << s;
+    cout << s << '\n';
     return 0;
 }
